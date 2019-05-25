@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AngryShot>
+  <items>
+    <item id="2001">
+      <name>item_name_1</name>
+
+      <desc>item_desc_1</desc>
+
+      <price>15</price>
+    </item>
+
+    <item id="2002">
+      <name>Mini Ball</name>
+
+      <desc>Use mini ball to make the clean shot easier.</desc>
+
+      <price>15</price>
+    </item>
+
+    <item id="2003">
+      <name>item_name_2</name>
+
+      <desc>item_desc_2</desc>
+
+      <price>15</price>
+    </item>
+
+    <item id="2004">
+      <name>item_name_3</name>
+
+      <desc>item_desc_3</desc>
+
+      <price>15</price>
+    </item>
+  </items>
+</AngryShot>

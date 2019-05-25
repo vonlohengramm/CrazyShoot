@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<Key>item_name_1</Key>
+		<Zh>篮筐</Zh>
+		<En>Basket</En>
+		<Ko>바스켓</Ko>
+		<Jp>バスケット</Jp>
+	</item>
+	<item>
+		<Key>item_desc_1</Key>
+		<Zh>投出篮筐挂满篮板，让你更容易获得“两倍”或“三倍”。</Zh>
+		<En>Shot with basket any time you want and make more Double &amp; Triple.</En>
+		<Ko>더블샷 트리플샷위해 노력해보시죠.</Ko>
+		<Jp>更に「ダブル」または「トリプル」を得やすいようにバスケットをバックボードに掛ける</Jp>
+	</item>
+	<item>
+		<Key>item_name_2</Key>
+		<Zh>超长引导线</Zh>
+		<En>Longer Guide Line</En>
+		<Ko>긴 가이드 라인</Ko>
+		<Jp>超長ガイドライン</Jp>
+	</item>
+	<item>
+		<Key>item_desc_2</Key>
+		<Zh>延长投篮的引导线，使你的此次投篮更精准。</Zh>
+		<En>Extend the guid line and make the shot more accurate.</En>
+		<Ko>가이드 라인을 길게 만들어 정확도를 높여봅시다.</Ko>
+		<Jp>更に正確にショットするためにショットガイドラインを延長する</Jp>
+	</item>
+	<item>
+		<Key>item_name_3</Key>
+		<Zh>挡风玻璃</Zh>
+		<En>Windshield</En>
+		<Ko>바람막이유리</Ko>
+		<Jp>ウインドシールド</Jp>
+	</item>
+	<item>
+		<Key>item_desc_3</Key>
+		<Zh>屏蔽风的影响</Zh>
+		<En>Stop the wind.</En>
+		<Ko>바람 영향을 없애기</Ko>
+		<Jp>風の影響を遮る</Jp>
+	</item>
+	<item>
+		<Key>level_condition_1</Key>
+		<Zh>一局游戏中获得&lt;color=#ff6000&gt;{0}&lt;/color&gt;个“WOW”</Zh>
+		<En>Get "WOW" &lt;color=#ff6000&gt;x{0}&lt;/color&gt; in one round.</En>
+		<Ko>한 게임에서 받은 WOW개수&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;個の“WOW”をもらう</Jp>
+	</item>
+	<item>
+		<Key>level_condition_2</Key>
+		<Zh>一局游戏中获得&lt;color=#ff6000&gt;{0}&lt;/color&gt;个“BANG”</Zh>
+		<En>Get "BANG" &lt;color=#ff6000&gt;x{0}&lt;/color&gt; in one round.</En>
+		<Ko>한 게임에서 받은 BANG개수&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;個の“BANG”をもらう</Jp>
+	</item>
+	<item>
+		<Key>level_condition_3</Key>
+		<Zh>最佳纪录 &lt;color=#ff6000&gt;&gt;＝{0}&lt;/color&gt;</Zh>
+		<En>Best record &lt;color=#ff6000&gt;&gt;＝{0}&lt;/color&gt;.</En>
+		<Ko>최고기록 &lt;color=#ff6000&gt;&gt;＝{0}&lt;/color&gt;</Ko>
+		<Jp>最高記録&lt;color=#ff6000&gt;&gt;＝{0}&lt;/color&gt;.</Jp>
+	</item>
+	<item>
+		<Key>level_condition_4</Key>
+		<Zh>一局游戏投出&lt;color=#ff6000&gt;{0}&lt;/color&gt;次“空心”</Zh>
+		<En>&lt;color=#ff6000&gt;{0}&lt;/color&gt; times "Clean Shot" in one
+ inning.</En>
+		<Ko>한 게임에서 내던진 크릴 샷&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;回の“クリーンショット”を完成する</Jp>
+	</item>
+	<item>
+		<Key>level_condition_5</Key>
+		<Zh>一局游戏成功完成&lt;color=#ff6000&gt;{0}&lt;/color&gt;次“怒射”</Zh>
+		<En>Make &lt;color=#ff6000&gt;{0}&lt;/color&gt; "Angry Shot” successfully in one inning.</En>
+		<Ko>한 게임에서 완성한 앵그리 샷&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;回の“怒りのショット”を完成する</Jp>
+	</item>
+	<item>
+		<Key>level_condition_6</Key>
+		<Zh>一局游戏投出&lt;color=#ff6000&gt;{0}&lt;/color&gt;个“三倍”</Zh>
+		<En>Make &lt;color=#ff6000&gt;{0}&lt;/color&gt; "Triple" successfully in one inning.</En>
+		<Ko>한 게임에서 완성한 트리플 샷&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;個」の“トリプル”を完成する</Jp>
+	</item>
+	<item>
+		<Key>level_condition_7</Key>
+		<Zh>一局游戏成功完成&lt;color=#ff6000&gt;{0}&lt;/color&gt;次弹地进球</Zh>
+		<En>Make &lt;color=#ff6000&gt;{0}&lt;/color&gt; rebound goal in one inning.</En>
+		<Ko>한 게임에서 완성한 리반드 샷&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;回のリバウンドゴールを完成する</Jp>
+	</item>
+	<item>
+		<Key>level_condition_8</Key>
+		<Zh>一局游戏成功完成&lt;color=#ff6000&gt;{0}&lt;/color&gt;个“三倍”并且三“空心”</Zh>
+		<En>Make &lt;color=#ff6000&gt;{0}&lt;/color&gt; triple clean shot in one inning.</En>
+		<Ko>한 게임에서 완성한 트리플 및 크릴 샷&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;個の“トリプル”さらに三“クリーンショット”を完成する</Jp>
+	</item>
+	<item>
+		<Key>level_condition_9</Key>
+		<Zh>一局游戏成功完成&lt;color=#ff6000&gt;{0}&lt;/color&gt;次“怒射”并“空心”</Zh>
+		<En>&lt;color=#ff6000&gt;{0}&lt;/color&gt; times "Angry Shot" &amp;amp; "Clean Shot" at the same time.</En>
+		<Ko>한 게임에서 완성한 앵그리 및 크릴 샷&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;回の“怒りのショット”それに“クリーンショット”を達成する</Jp>
+	</item>
+	<item>
+		<Key>level_condition_10</Key>
+		<Zh>一局游戏成功完成&lt;color=#ff6000&gt;{0}&lt;/color&gt;次弹地“空心”</Zh>
+		<En>Make &lt;color=#ff6000&gt;{0}&lt;/color&gt; times rebound clean shot in one inning.</En>
+		<Ko>한 게임에서 완성한 리반드 및 크리얼 샷&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;回のリバウンド“クリーンショット”を達成する</Jp>
+	</item>
+	<item>
+		<Key>level_condition_11</Key>
+		<Zh>一局游戏成功完成&lt;color=#ff6000&gt;{0}&lt;/color&gt;次“怒射”并“三倍”</Zh>
+		<En>&lt;color=#ff6000&gt;{0}&lt;/color&gt; times "Angry Shot" &amp;amp; "Triple" at the same time.</En>
+		<Ko>한 게임에서 완성한 트리플 및 앵그리 샷&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;回の“怒りのショット”それに“トリプル”を達成する</Jp>
+	</item>
+	<item>
+		<Key>level_condition_12</Key>
+		<Zh>一局游戏成功完成&lt;color=#ff6000&gt;{0}&lt;/color&gt;次“怒射”并“三倍”且三“空心”</Zh>
+		<En>&lt;color=#ff6000&gt;{0}&lt;/color&gt; times "Angry Shot" &amp;amp; triple clean shot at the same time.</En>
+		<Ko>한 게임에서 완성한 트리플, 크리얼 및 앵그리 샷&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;回の“怒りのショット”それに“トリプル”さらに三“クリーンショット”を達成する</Jp>
+	</item>
+	<item>
+		<Key>level_condition_13</Key>
+		<Zh>一局游戏获得&lt;color=#ff6000&gt;{0}&lt;/color&gt;秒时间加成</Zh>
+		<En>Earn &lt;color=#ff6000&gt;{0}&lt;/color&gt; seconds in one inning.</En>
+		<Ko>한 게임에서 추가로 가진 시간&lt;color=#ff6000&gt;{0}s&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで格別の&lt;color=#ff6000&gt;{0}&lt;/color&gt;秒もらう</Jp>
+	</item>
+	<item>
+		<Key>level_condition_14</Key>
+		<Zh>一局游戏出现&lt;color=#ff6000&gt;{0}&lt;/color&gt;次“压哨球”</Zh>
+		<En>&lt;color=#ff6000&gt;{0}&lt;/color&gt; times "Final Shot" in one inning.</En>
+		<Ko>한 게임에서 나타난 마지막 샷&lt;color=#ff6000&gt;{0}&lt;/color&gt;</Ko>
+		<Jp>1局のゲームで&lt;color=#ff6000&gt;{0}&lt;/color&gt;回“ブザービート”を表す</Jp>
+	</item>
+	<item>
+		<Key>level_name_1</Key>
+		<Zh>菜鸟</Zh>
+		<En>ROOKIE</En>
+		<Ko>럭키</Ko>
+		<Jp>新人</Jp>
+	</item>
+	<item>
+		<Key>level_name_2</Key>
+		<Zh>爱好者</Zh>
+		<En>FANS</En>
+		<Ko>애호가</Ko>
+		<Jp>ファン</Jp>
+	</item>
+	<item>
+		<Key>level_name_3</Key>
+		<Zh>业余球员</Zh>
+		<En>AMATEUR PLAYER</En>
+		<Ko>아마추어 선수</Ko>
+		<Jp>アマチュア選手</Jp>
+	</item>
+	<item>
+		<Key>level_name_4</Key>
+		<Zh>社区替补</Zh>
+		<En>AMATEUR BENCH</En>
+		<Ko>아마추어 후보</Ko>
+		<Jp>アマチュアベンチ</Jp>
+	</item>
+	<item>
+		<Key>level_name_5</Key>
+		<Zh>社区主力</Zh>
+		<En>AMATEUR STARTER</En>
+		<Ko>아마추어 스타터</Ko>
+		<Jp>アマチュア主将</Jp>
+	</item>
+	<item>
+		<Key>level_name_6</Key>
+		<Zh>社区王牌</Zh>
+		<En>AMATEUR ACE</En>
+		<Ko>아마추어 에이스</Ko>
+		<Jp>アマチュアエース</Jp>
+	</item>
+	<item>
+		<Key>level_name_7</Key>
+		<Zh>野球明星</Zh>
+		<En>AMATEUR STAR</En>
+		<Ko>아마추어 스타</Ko>
+		<Jp>アマチュアスダー</Jp>
+	</item>
+	<item>
+		<Key>level_name_8</Key>
+		<Zh>野球王</Zh>
+		<En>AMATEUR KING</En>
+		<Ko>아마추어 왕</Ko>
+		<Jp>アマチュアキング</Jp>
+	</item>
+	<item>
+		<Key>level_name_9</Key>
+		<Zh>职业球员</Zh>
+		<En>PLAYER</En>
+		<Ko>프레이어</Ko>
+		<Jp>プロ選手</Jp>
+	</item>
+	<item>
+		<Key>level_name_10</Key>
+		<Zh>球队替补</Zh>
+		<En>BENCH</En>
+		<Ko>후보선수</Ko>
+		<Jp>チームベンチ</Jp>
+	</item>
+	<item>
+		<Key>level_name_11</Key>
+		<Zh>球队主力</Zh>
+		<En>STARTER</En>
+		<Ko>주력선수</Ko>
+		<Jp>チーム主将</Jp>
+	</item>
+	<item>
+		<Key>level_name_12</Key>
+		<Zh>球队王牌</Zh>
+		<En>ACE</En>
+		<Ko>에이스</Ko>
+		<Jp>エース</Jp>
+	</item>
+	<item>
+		<Key>level_name_13</Key>
+		<Zh>球星</Zh>
+		<En>STAR</En>
+		<Ko>스타</Ko>
+		<Jp>スダー</Jp>
+	</item>
+	<item>
+		<Key>level_name_14</Key>
+		<Zh>巨星</Zh>
+		<En>SUPPER STAR</En>
+		<Ko>슈퍼스타</Ko>
+		<Jp>スーパースダー</Jp>
+	</item>
+	<item>
+		<Key>level_name_15</Key>
+		<Zh>球王</Zh>
+		<En>BALL KING</En>
+		<Ko>농구왕</Ko>
+		<Jp>ボールキング</Jp>
+	</item>
+	<item>
+		<Key>ui_clean</Key>
+		<Zh>空心</Zh>
+		<En>Clean Shot</En>
+		<Ko>크린샷</Ko>
+		<Jp>クリーンショット</Jp>
+	</item>
+	<item>
+		<Key>ui_final</Key>
+		<Zh>压哨球</Zh>
+		<En>Final Shot</En>
+		<Ko>마지막샷</Ko>
+		<Jp>ブザービート</Jp>
+	</item>
+	<item>
+		<Key>ui_miss</Key>
+		<Zh>投失</Zh>
+		<En>Miss</En>
+		<Ko>Miss</Ko>
+		<Jp>ミス</Jp>
+	</item>
+	<item>
+		<Key>ui_double</Key>
+		<Zh>双倍</Zh>
+		<En>Double</En>
+		<Ko>더블</Ko>
+		<Jp>ダブル</Jp>
+	</item>
+	<item>
+		<Key>ui_triple</Key>
+		<Zh>三倍</Zh>
+		<En>Triple</En>
+		<Ko>트리플</Ko>
+		<Jp>トリプル</Jp>
+	</item>
+	<item>
+		<Key>ui_angry</Key>
+		<Zh>怒射</Zh>
+		<En>Angry Shot</En>
+		<Ko>앵그리 샷</Ko>
+		<Jp>怒りのショット</Jp>
+	</item>
+	<item>
+		<Key>icon_wow</Key>
+		<Zh>WOW</Zh>
+		<En>WOW</En>
+		<Ko>WOW</Ko>
+		<Jp>WOW</Jp>
+	</item>
+	<item>
+		<Key>icon_bang</Key>
+		<Zh>BANG</Zh>
+		<En>BANG</En>
+		<Ko>BANG</Ko>
+		<Jp>BANG</Jp>
+	</item>
+	<item>
+		<Key>ui_pause</Key>
+		<Zh>暂停</Zh>
+		<En>PAUSE</En>
+		<Ko>PAUSE</Ko>
+		<Jp>一時停止</Jp>
+	</item>
+	<item>
+		<Key>ui_bestrecord</Key>
+		<Zh>最佳纪录</Zh>
+		<En>BEST RECORD</En>
+		<Ko>최고기록</Ko>
+		<Jp>最高記録</Jp>
+	</item>
+	<item>
+		<Key>ui_start</Key>
+		<Zh>开始游戏</Zh>
+		<En>START</En>
+		<Ko>시작</Ko>
+		<Jp>スタート</Jp>
+	</item>
+	<item>
+		<Key>ui_back</Key>
+		<Zh>返回</Zh>
+		<En>BACK</En>
+		<Ko>뒤로</Ko>
+		<Jp>バック</Jp>
+	</item>
+	<item>
+		<Key>ui_sound</Key>
+		<Zh>声音</Zh>
+		<En>Sound</En>
+		<Ko>소리</Ko>
+		<Jp>音</Jp>
+	</item>
+	<item>
+		<Key>ui_mail</Key>
+		<Zh>联系我们</Zh>
+		<En>Contact us</En>
+		<Ko>제희한테 연락해 주세요</Ko>
+		<Jp>お問い合わせ</Jp>
+	</item>
+	<item>
+		<Key>ui_fb</Key>
+		<Zh>关注粉丝页</Zh>
+		<En>Like us</En>
+		<Ko>팬 페지</Ko>
+		<Jp>いいね</Jp>
+	</item>
+	<item>
+		<Key>ui_charge_free</Key>
+		<Zh>免费</Zh>
+		<En>FREE</En>
+		<Ko>무료</Ko>
+		<Jp>無料</Jp>
+	</item>
+	<item>
+		<Key>ui_charge_extra</Key>
+		<Zh>额外送：</Zh>
+		<En>Extra:</En>
+		<Ko>별도 증정</Ko>
+		<Jp>格別のサービス</Jp>
+	</item>
+	<item>
+		<Key>ui_charge_freedesc</Key>
+		<Zh>观看视频赚取更多！</Zh>
+		<En>Watch the video to earn more!</En>
+		<Ko>비디오를 보고 더많을것을 획득할 수 있습니다</Ko>
+		<Jp>ビデオを見るとさらにもらえる</Jp>
+	</item>
+	<item>
+		<Key>ui_newrecord</Key>
+		<Zh>新纪录</Zh>
+		<En>NEW RECORD</En>
+		<Ko>최신기록</Ko>
+		<Jp>ニューレコード</Jp>
+	</item>
+	<item>
+		<Key>ui_free</Key>
+		<Zh>免费</Zh>
+		<En>FREE</En>
+		<Ko>무료</Ko>
+		<Jp>無料</Jp>
+	</item>
+	<item>
+		<Key>ui_shop_buy</Key>
+		<Zh>购买</Zh>
+		<En>BUY</En>
+		<Ko>구매</Ko>
+		<Jp>購入</Jp>
+	</item>
+	<item>
+		<Key>ui_shop_buy10</Key>
+		<Zh>购买x10</Zh>
+		<En>BUYx10</En>
+		<Ko>구매x10</Ko>
+		<Jp>購入x10</Jp>
+	</item>
+	<item>
+		<Key>ui_levelfull</Key>
+		<Zh>祝贺你！</Zh>
+		<En>Congratulations!</En>
+		<Ko>축하!</Ko>
+		<Jp>おめでとうございます</Jp>
+	</item>
+	<item>
+		<Key>ui_level</Key>
+		<Zh>等级</Zh>
+		<En>LEVEL</En>
+		<Ko>등급</Ko>
+		<Jp>レベル</Jp>
+	</item>
+	<item>
+		<Key>ui_timeplus</Key>
+		<Zh>{0}秒</Zh>
+		<En>{0}s</En>
+		<Ko>{0}s</Ko>
+		<Jp>{0}秒</Jp>
+	</item>
+	<item>
+		<Key>ui_ad</Key>
+		<Zh>当前没有更多广告了，请稍后再试</Zh>
+		<En>No ad can be viewed at this moment, please try again later.</En>
+		<Ko>광고가 없습니다.잠시후 다시 시도하시기 바랍니다.</Ko>
+		<Jp>今広告がなくなり、後で試してください</Jp>
+	</item>
+	<item>
+		<Key>ui_charge_price</Key>
+		<Zh>{0}</Zh>
+		<En>{0}</En>
+		<Ko>{0}</Ko>
+		<Jp>{0}</Jp>
+	</item>
+	<item>
+		<Key>ui_coin10</Key>
+		<Zh>x10</Zh>
+		<En>x10</En>
+		<Ko>x10</Ko>
+		<Jp>x10</Jp>
+	</item>
+	<item>
+		<Key>ui_shop_price</Key>
+		<Zh>{0}</Zh>
+		<En>{0}</En>
+		<Ko>{0}</Ko>
+		<Jp>{0}</Jp>
+	</item>
+	<item>
+		<Key>push_day</Key>
+		<Zh>想成为职业球员的话，就赶快回来练习投篮啊！</Zh>
+		<En>Want to be a professional player? Then come back and hone your shot technology! </En>
+		<Ko>프로선수가 되기 위해 빨리 오셔서  연습하세요.</Ko>
+		<Jp>プロ選手になるように、早くショットを練習しましょう</Jp>
+	</item>
+	<item>
+		<Key>push_night</Key>
+		<Zh>夜幕降临，萧条的街区变得热闹起来... …</Zh>
+		<En>As night fell, the field became noisy......</En>
+		<Ko>어둠이 다가옴에 따라  침체된 거리가 벅적거리기 시작하였습니다.</Ko>
+		<Jp>夜のとばりが訪ねて、静かな町が賑やかになります</Jp>
+	</item>
+	<item>
+		<Key>feed</Key>
+		<Zh>来吧兄弟！为了成为下一个科比，快和我一起为了成为篮球巨星而努力！</Zh>
+		<En>I begin to work hard for shining on basketball court, fight for becoming the next Kobe! Come on and join me, bro! </En>
+		<Ko>어서오세요, 나와 같이 농구스타가 되기위해 노력해보죠.</Ko>
+		<Jp>さあ、バスケットボールのスーパースダーになるように頑張りましょう</Jp>
+	</item>
+	<item>
+		<Key>notice</Key>
+		<Zh>通知</Zh>
+		<En>Notice</En>
+		<Ko>알림</Ko>
+		<Jp>注意</Jp>
+	</item>
+	<item>
+		<Key>comment_title</Key>
+		<Zh>评价“怒射”</Zh>
+		<En>Rate Angry Shot</En>
+		<Ko>바스켓 평가하기</Ko>
+		<Jp>バスケットを評価する</Jp>
+	</item>
+	<item>
+		<Key>comment_txt</Key>
+		<Zh>如果您获得了真实的快乐，请回以真诚的评价</Zh>
+		<En>If you enjoy it, please rate it.</En>
+		<Ko>바스켓 사용이 맘에 드셨나요? 잠시만 시간을 내서 평가를 부탁드리겠습니다. 감사합니다!</Ko>
+		<Jp>バスケットをお使いいただきありがとうございます。もしよろしければ、ほんの少しだけお時間をいただき評価をお願いできませんか？ご協力感謝いたします！</Jp>
+	</item>
+	<item>
+		<Key>comment_button_confirm</Key>
+		<Zh>评价</Zh>
+		<En>Rate</En>
+		<Ko>평가하기</Ko>
+		<Jp>を評価する</Jp>
+	</item>
+	<item>
+		<Key>comment_button_refuse</Key>
+		<Zh>不，谢谢</Zh>
+		<En>No, thanks</En>
+		<Ko>평가하지 않겠습니다</Ko>
+		<Jp>結構です</Jp>
+	</item>
+	<item>
+		<Key>window_waiting</Key>
+		<Zh>等待中...</Zh>
+		<En>Waiting...</En>
+		<Ko>좀 기다리다...</Ko>
+		<Jp>お待ち下さい...</Jp>
+	</item>
+	<item>
+		<Key>window_done</Key>
+		<Zh>充值成功！</Zh>
+		<En>Purchase done!</En>
+		<Ko>완성하다！</Ko>
+		<Jp>購入できました!</Jp>
+	</item>
+    <item>
+        <Key>overtime</Key>
+        <Zh>进入加时赛+10s</Zh>
+        <En>Going Into Overtime+10s </En>
+        <Ko>延長戦に入る+10s</Ko>
+        <Jp>진입 연장전+10s</Jp>
+    </item>
+    <item>
+        <Key>wechat_txt</Key>
+        <Zh>我在这场比赛中怒砍{0}分，是兄弟就来和我一起称霸街头！</Zh>
+        <En>I got {0} points in this game, come on and join me, bro! </En>
+        <Ko>I got {0} points in this game, come on and join me, bro! </Ko>
+        <Jp>I got {0} points in this game, come on and join me, bro! </Jp>
+    </item>
+    <item>
+        <Key>guide_txt</Key>
+        <Zh>请将篮筐扔到篮板的红线上</Zh>
+        <En>Throw the basket to the redline.</En>
+        <Ko>Throw the basket to the redline.</Ko>
+        <Jp>Throw the basket to the redline.</Jp>
+    </item>
+</Language>

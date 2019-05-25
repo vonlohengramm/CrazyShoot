@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AngryShot>
+  <Achievements>
+    <Achievement id="3001">
+      <txt>level_condition_1</txt>
+
+      <desc>要求一局游戏获得"wow"总数。</desc>
+    </Achievement>
+
+    <Achievement id="3002">
+      <txt>level_condition_2</txt>
+
+      <desc>要求一局游戏获得"子弹"总数。</desc>
+    </Achievement>
+
+    <Achievement id="3003">
+      <txt>level_condition_3</txt>
+
+      <desc>要求历史最好成绩达到多少。</desc>
+    </Achievement>
+
+    <Achievement id="3004">
+      <txt>level_condition_4</txt>
+
+      <desc>要求一局游戏投进的空心球个数。</desc>
+    </Achievement>
+
+    <Achievement id="3005">
+      <txt>level_condition_5</txt>
+
+      <desc>要求一局游戏Angry Shot进球个数。</desc>
+    </Achievement>
+
+    <Achievement id="3006">
+      <txt>level_condition_6</txt>
+
+      <desc>要求一局游戏Triple球个数。</desc>
+    </Achievement>
+
+    <Achievement id="3007">
+      <txt>level_condition_7</txt>
+
+      <desc>要求一局游戏弹地进球个数。</desc>
+    </Achievement>
+
+    <Achievement id="3008">
+      <txt>level_condition_8</txt>
+
+      <desc>要求一局游戏Triple空心球的个数。</desc>
+    </Achievement>
+
+    <Achievement id="3009">
+      <txt>level_condition_9</txt>
+
+      <desc>要求一局游戏Angry Shot同时空心球的个数。</desc>
+    </Achievement>
+
+    <Achievement id="3010">
+      <txt>level_condition_10</txt>
+
+      <desc>要求一局游戏弹地空心球个数。</desc>
+    </Achievement>
+
+    <Achievement id="3011">
+      <txt>level_condition_11</txt>
+
+      <desc>要求一局游戏Triple Angry Shot个数。</desc>
+    </Achievement>
+
+    <Achievement id="3012">
+      <txt>level_condition_12</txt>
+
+      <desc>要求一局游戏Triple Angry Clean Shot个数。</desc>
+    </Achievement>
+
+    <Achievement id="3013">
+      <txt>level_condition_13</txt>
+
+      <desc>要求一局游戏获得时间增加的总秒数。</desc>
+    </Achievement>
+
+    <Achievement id="3014">
+      <txt>level_condition_14</txt>
+
+      <desc>要求一局游戏出现final shot的次数。</desc>
+    </Achievement>
+  </Achievements>
+
+  <Levels>
+    <Level id="1" name="level_name_1" quality="1">
+      <conditions/>
+    </Level>
+
+    <Level id="2" name="level_name_2" quality="1">
+      <conditions>
+        <condition id="3003" num="10"/>
+      </conditions>
+    </Level>
+
+    <Level id="3" name="level_name_3" quality="1">
+      <conditions>
+        <condition id="3003" num="20"/>
+
+        <condition id="3004" num="1"/>
+      </conditions>
+    </Level>
+
+    <Level id="4" name="level_name_4" quality="1">
+      <conditions>
+        <condition id="3003" num="30"/>
+
+        <condition id="3013" num="10"/>
+      </conditions>
+    </Level>
+
+    <Level id="5" name="level_name_5" quality="1">
+      <conditions>
+        <condition id="3003" num="50"/>
+
+        <condition id="3014" num="2"/>
+      </conditions>
+    </Level>
+
+    <Level id="6" name="level_name_6" quality="2">
+      <conditions>
+        <condition id="3003" num="80"/>
+
+        <condition id="3007" num="1"/>
+
+        <condition id="3013" num="30"/>
+      </conditions>
+    </Level>
+
+    <Level id="7" name="level_name_7" quality="2">
+      <conditions>
+        <condition id="3005" num="1"/>
+
+        <condition id="3006" num="3"/>
+
+        <condition id="3001" num="50"/>
+
+        <condition id="3002" num="50"/>
+      </conditions>
+    </Level>
+
+    <Level id="8" name="level_name_8" quality="2">
+      <conditions>
+        <condition id="3003" num="100"/>
+
+        <condition id="3014" num="4"/>
+
+        <condition id="3001" num="100"/>
+      </conditions>
+    </Level>
+
+    <Level id="9" name="level_name_9" quality="2">
+      <conditions>
+        <condition id="3003" num="200"/>
+
+        <condition id="3006" num="5"/>
+
+        <condition id="3008" num="3"/>
+
+        <condition id="3002" num="100"/>
+      </conditions>
+    </Level>
+
+    <Level id="10" name="level_name_10" quality="3">
+      <conditions>
+        <condition id="3003" num="500"/>
+
+        <condition id="3007" num="3"/>
+
+        <condition id="3014" num="6"/>
+      </conditions>
+    </Level>
+
+    <Level id="11" name="level_name_11" quality="3">
+      <conditions>
+        <condition id="3003" num="1000"/>
+
+        <condition id="3006" num="8"/>
+
+        <condition id="3008" num="5"/>
+
+        <condition id="3007" num="5"/>
+      </conditions>
+    </Level>
+
+    <Level id="12" name="level_name_12" quality="3">
+      <conditions>
+        <condition id="3009" num="5"/>
+
+        <condition id="3004" num="30"/>
+
+        <condition id="3008" num="8"/>
+
+        <condition id="3002" num="300"/>
+      </conditions>
+    </Level>
+
+    <Level id="13" name="level_name_13" quality="4">
+      <conditions>
+        <condition id="3010" num="5"/>
+
+        <condition id="3014" num="10"/>
+
+        <condition id="3013" num="100"/>
+      </conditions>
+    </Level>
+
+    <Level id="14" name="level_name_14" quality="4">
+      <conditions>
+        <condition id="3011" num="5"/>
+
+        <condition id="3003" num="1500"/>
+      </conditions>
+    </Level>
+
+    <Level id="15" name="level_name_15" quality="5">
+      <conditions>
+        <condition id="3012" num="10"/>
+      </conditions>
+    </Level>
+  </Levels>
+</AngryShot>
